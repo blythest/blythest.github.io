@@ -249,6 +249,12 @@ footer {
   font-style: normal;
 }
 
+.SkolarLatin-Regular { 
+  font-family: SkolarLatin-Regular;
+  font-weight: normal;
+  font-style: normal;
+}
+
 @media print, screen and (max-width: 720px) {
   body {
     word-wrap:break-word;
