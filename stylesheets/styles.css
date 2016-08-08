@@ -22,12 +22,9 @@
  * © 2016 MyFonts Inc
 */
 
-
-@import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);l
 @import url("//hello.myfonts.net/count/31b5d2");
 
-  
-@font-face {font-family: 'NeuzeitSLTStd-Book';src: url('fonts/31B5D2_0_0.eot');src: url('fonts/31B5D2_0_0.eot?#iefix') format('embedded-opentype'),url('fonts/31B5D2_0_0.woff2') format('woff2'),url('fonts/31B5D2_0_0.woff') format('woff'),url('fonts/31B5D2_0_0.ttf') format('truetype');}
+@font-face {font-family: 'NeuzeitSLTStd-Book';src: url('../fonts/31B5D2_0_0.eot');src: url('../fonts/31B5D2_0_0.eot?#iefix') format('embedded-opentype'),url('../fonts/31B5D2_0_0.woff2') format('woff2'),url('../fonts/31B5D2_0_0.woff') format('woff'),url('../fonts/31B5D2_0_0.ttf') format('truetype');}
  
 
 
